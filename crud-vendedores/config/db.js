@@ -3,7 +3,7 @@ const mysql = require("mysql2/promise");
 const pool = mysql.createPool({
   host: "MYSQL1002.site4now.net",
   user: "ab8ba9_ventas",
-  password: "thMXcxUMeljxjgEqPSOEsLMGMtsVYiAh",
+  password: "H@BeMuS_P4P4M ",
   database: "smarterasp",
   port: 3306,
   waitForConnections: true,
